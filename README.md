@@ -1,6 +1,6 @@
 # iAltoobi-alertViewX
 
-Easy tool helps iOS Developers to designs apps fast!
+an extantion helps iOS Developers to call alert from anywhere on app!
 
 Created By: @ialtoobi
 
